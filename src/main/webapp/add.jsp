@@ -53,6 +53,8 @@
             <input class="btn btn-default" type="reset" value="重置" />
             <input class="btn btn-default" type="button" value="返回" />
         </div>
+
+        <br>
     </form>
 </div>
 </body>
